@@ -5,7 +5,7 @@
   "main": "src/main.ts",
   "scripts": {
     "serve": "ts-node-dev --respawn --pretty --transpile-only src/main.ts",
-    "dev": "ts-node --transpile-only src/main.ts"
+    "dev": "ts-node --transpile-only src/mainoff.ts"
   },
   "repository": {
     "type": "git",
